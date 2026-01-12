@@ -11,5 +11,10 @@ namespace GitKrakenAnleitung
         {
             MessageBox.Show("Hallo, GitKraken!");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // This method is called when the form loads.
+        }
     }
 }
